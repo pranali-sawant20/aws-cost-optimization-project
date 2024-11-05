@@ -1,4 +1,4 @@
-aws-cost-optimization-project
+aws-cost-optimization-project:
 
 About:Identifying Stale EBS Snapshots
 In this Project, By creating a Lambda function that identifies EBS snapshots that are no longer associated with any active EC2 instance and deletes them to save on storage costs.
